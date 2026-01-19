@@ -22,11 +22,13 @@ fi
 
 # Commands (individual files to allow local additions)
 mkdir -p ~/.claude/commands
-for f in "$CONFIG_DIR/commands"/*.md 2>/dev/null; do
-    [ -f "$f" ] || continue
-    ln -sf "$f" ~/.claude/commands/
-    echo "✓ commands/$(basename "$f")"
-done
+if ls "$CONFIG_DIR/commands"/*.md >/dev/null 2>&1; then
+    for f in "$CONFIG_DIR/commands"/*.md; do
+        [ -f "$f" ] || continue
+        ln -sf "$f" ~/.claude/commands/
+        echo "✓ commands/$(basename "$f")"
+    done
+fi
 
 # Skills (directory symlinks per skill)
 mkdir -p ~/.claude/skills
