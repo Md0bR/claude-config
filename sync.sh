@@ -12,9 +12,10 @@ show_status() {
     for skill in ~/.claude/skills/*/; do
         [ -d "$skill" ] || continue
         skill_name=$(basename "$skill")
+        skill_path="$HOME/.claude/skills/$skill_name"
 
-        if [ -L "$skill" ]; then
-            target=$(readlink "$skill")
+        if [ -L "$skill_path" ]; then
+            target=$(readlink "$skill_path")
             if [[ "$target" == "$CONFIG_DIR"* ]]; then
                 echo "  ✓ $skill_name (synced)"
             else
